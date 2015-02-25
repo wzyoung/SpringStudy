@@ -50,7 +50,7 @@
 
 
     <build>
-        <finalName>springmvcexample</finalName>
+        <finalName>SpringStudy</finalName>
     </build>
 
 </project>
